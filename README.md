@@ -1,3 +1,3 @@
 Tester for the App and advertising it
 
-![Video](Wealth Path App/Appvideogif.gif)
+![Video](Wealth%20Path%20App/App%video.gif)
