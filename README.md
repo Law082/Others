@@ -1,4 +1,4 @@
-# Wealth Path
+# Wealth Path: Net Worth Tracker
 
 Wealth Path is a personal finance app that helps users track their net worth, manage assets and debts, and plan for financial independence through interactive charts, financial projections, and an intuitive interface.
 
